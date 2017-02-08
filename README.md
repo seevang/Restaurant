@@ -1,2 +1,0 @@
-# Restaurant
-Class Assignment: Restaurant
